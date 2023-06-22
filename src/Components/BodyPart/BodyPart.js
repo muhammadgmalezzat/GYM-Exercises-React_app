@@ -12,10 +12,6 @@ const BodyPart = ({item , bodyPart , setbodyPart}) => {
             sx={
                 {
                     borderTop: bodyPart === item ? '10px solid #ff2625' : '',
-<<<<<<< HEAD
-                    
-=======
->>>>>>> bd6c28d82d433c7f879fd6e379e56b3c7697aadb
                     borderBottomLeftRadius: '20px',
                     width: '270px',
                     height: '280px',
